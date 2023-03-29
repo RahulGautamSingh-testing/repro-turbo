@@ -4,16 +4,8 @@
       "apps/*",
       "packages/*"
     ],
-    "scripts": {
-      "build": "turbo run build",
-      "dev": "turbo run dev",
-      "lint": "turbo run lint"
-    },
     "devDependencies": {
-      "eslint-config-custom": "*",
-      "eslint": "7.32.0",
-      "prettier": "^2.5.1",
-      "turbo": "latest"
+      "eslint-config-custom": "*"
     },
     "packageManager": "npm@8.19.4"
   }
